@@ -1,9 +1,9 @@
 // Teambition 移动端 Javascript Bridge 封装
 ;(function () {
   'use strict'
-  // if (typeof window !== 'object' || !window.WebViewJavascriptBridge) {
-  //   return
-  // }
+  if (typeof window !== 'object' || !window.WebViewJavascriptBridge) {
+    return
+  }
 
   if (typeof Promise !== 'function' || !!window.TeambitionMobileSDK) {
     return

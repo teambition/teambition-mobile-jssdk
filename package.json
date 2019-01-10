@@ -1,6 +1,6 @@
 {
   "name": "teambition-mobile-jssdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Teambition mobile JavaScript SDK.",
   "main": "jssdk.js",
   "scripts": {
