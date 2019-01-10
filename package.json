@@ -1,0 +1,22 @@
+{
+  "name": "teambition-mobile-jssdk",
+  "version": "1.0.0",
+  "description": "Teambition mobile JavaScript SDK.",
+  "main": "jssdk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teambition/teambition-mobile-jssdk.git"
+  },
+  "keywords": [
+    "jssdk"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teambition/teambition-mobile-jssdk/issues"
+  },
+  "homepage": "https://github.com/teambition/teambition-mobile-jssdk#readme"
+}
